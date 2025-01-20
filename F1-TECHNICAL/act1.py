@@ -1,4 +1,4 @@
-fname = input("Enter First Name: ")
+fname = input ("Enter First Name: ")
 lname = input("Enter Last Name: ")
 mname = input("Enter Middle Name: ")
 birdthday = input("Enter Birthday: ")
